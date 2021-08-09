@@ -19,7 +19,7 @@ print(hello)
 
 # We meant to print the string "hello";
 # a variable named 'hello' doesn't exist yet.
-#
+
 # This line could have been:
 #
 # my_string = "hello"
